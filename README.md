@@ -1,1 +1,1 @@
-# SframeNumpy
+# Sframe Numpy basic concept
