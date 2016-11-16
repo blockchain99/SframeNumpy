@@ -1,0 +1,12 @@
+country,cars_per_cap,right_left,code
+KOREA,0.9,right,KOR
+UK,1.1,left,UK
+USA,1.3,right,USA
+JAPAN,1.4,left,JPN
+SINGAPORE,1.0,right,SIN
+CHINA,0.4,right,CHN
+CANADA,1.1,right,CND
+MALAYSIA,0.5,right,MYL
+PERU,0.1,right,PRU
+THAILAND,0.5,right,THI
+INDIA,0.09,left,IND
